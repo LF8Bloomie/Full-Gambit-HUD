@@ -5,7 +5,7 @@ import time
 
 # Initialize the main window
 root = tk.Tk()
-root.title("VCT-Style Overlay")
+root.title("LF8 Full Gambit Overlay")
 root.geometry("1920x1080")  # Full HD Resolution
 root.configure(bg="black")
 
